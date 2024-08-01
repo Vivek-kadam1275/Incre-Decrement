@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vivek-kadam1275.github.io/Incre-Decrement/static/css/main.e49e41b7.css",
-    "main.js": "/vivek-kadam1275.github.io/Incre-Decrement/static/js/main.a07aa8f8.js",
-    "static/js/453.fa73734f.chunk.js": "/vivek-kadam1275.github.io/Incre-Decrement/static/js/453.fa73734f.chunk.js",
-    "index.html": "/vivek-kadam1275.github.io/Incre-Decrement/index.html",
-    "main.e49e41b7.css.map": "/vivek-kadam1275.github.io/Incre-Decrement/static/css/main.e49e41b7.css.map",
-    "main.a07aa8f8.js.map": "/vivek-kadam1275.github.io/Incre-Decrement/static/js/main.a07aa8f8.js.map",
-    "453.fa73734f.chunk.js.map": "/vivek-kadam1275.github.io/Incre-Decrement/static/js/453.fa73734f.chunk.js.map"
+    "main.css": "/Incre-Decrement/static/css/main.e49e41b7.css",
+    "main.js": "/Incre-Decrement/static/js/main.b60f9a3e.js",
+    "static/js/453.fa73734f.chunk.js": "/Incre-Decrement/static/js/453.fa73734f.chunk.js",
+    "index.html": "/Incre-Decrement/index.html",
+    "main.e49e41b7.css.map": "/Incre-Decrement/static/css/main.e49e41b7.css.map",
+    "main.b60f9a3e.js.map": "/Incre-Decrement/static/js/main.b60f9a3e.js.map",
+    "453.fa73734f.chunk.js.map": "/Incre-Decrement/static/js/453.fa73734f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e49e41b7.css",
-    "static/js/main.a07aa8f8.js"
+    "static/js/main.b60f9a3e.js"
   ]
 }
